@@ -1,0 +1,316 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2022.2                 C:/Vivado/2022.2
+Matlab 9.10.0.2198249 (R2021a) Update 8 C:\Program Files\MATLAB\R2021a
+Vivado 2022.2                           C:/Vivado/2022.2
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/AddSub'
+Error 0002: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/AddSub1'
+Error 0003: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/AddSub2'
+Error 0004: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/AddSub3'
+Error 0005: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/AddSub4'
+Error 0006: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Constant12'
+Error 0007: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Delay1'
+Error 0008: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Delay2'
+Error 0009: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Delay3'
+Error 0010: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Delay4'
+Error 0011: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gateway Out'
+Error 0012: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in'
+Error 0013: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in1'
+Error 0014: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in2'
+Error 0015: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in3'
+Error 0016: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in4'
+Error 0017: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Gatway in5'
+Error 0018: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Mult1'
+Error 0019: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Mult2'
+Error 0020: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Mult3'
+Error 0021: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Mult4'
+Error 0022: Part on the System Generator Token in your design is set ...
+     Block: 'essa/Subsystem/Mult5'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/AddSub'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/AddSub1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/AddSub2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/AddSub3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/AddSub4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Constant12'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Delay1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Delay2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Delay3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Delay4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gateway Out'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Gatway in5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Mult1'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Mult2'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Mult3'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Mult4'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'essa/Subsystem/Mult5'
+
+Details:
+Part on the System Generator Token in your design is set to
+virtex7 xc7vx485t-3ffg1157. This part is not found in your Vivado
+installation. Please modify the System Generator Token to a part
+that is currently installed or update Vivado by installing this part.
+--------------------------------------------------------------------------------
