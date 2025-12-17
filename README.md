@@ -1,7 +1,7 @@
 # system-generator-for-DSP-flow
 
 
-Responsabilités liées à la publication du code source
+## Responsabilités liées à la publication du code source
 
 Ce projet est hébergé sur GitHub afin d’assurer la traçabilité, le contrôle de versions et la transparence des différentes itérations de conception liées à la modélisation de systèmes DSP à l’aide de System Generator.
 
@@ -25,7 +25,7 @@ Versions figées (tags / releases) pour identifier des états stables et validé
 
 Dans le cadre de ce projet, un dépôt public sans releases formelles a été choisi, l’objectif principal étant l’évaluation académique et non le déploiement logiciel.
 
-Gestion des dysfonctionnements et corrections (bug fixes)
+## Gestion des dysfonctionnements et corrections (bug fixes)
 
 En cas de dysfonctionnement du code ou d’erreurs de conception :
 
@@ -39,7 +39,7 @@ Les versions précédentes restent accessibles, permettant un retour arrière si
 
 Cette approche reflète les bonnes pratiques d’ingénierie, où le contrôle de versions est essentiel pour le débogage et la validation des systèmes.
 
-Choix de la licence et justification
+## Choix de la licence et justification
 
 Ce projet est distribué sous la licence MIT.
 
@@ -55,7 +55,7 @@ Elle limite la responsabilité de l’auteur en cas de mauvaise utilisation ou d
 
 Ce choix de licence est cohérent avec l’objectif académique du projet : partager les connaissances tout en définissant clairement les responsabilités.
 
-Outils et environnement
+## Outils et environnement
 
 MATLAB / Simulink
 
